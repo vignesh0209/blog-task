@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.categoryDropdown {
+  width: 370px;
+  border-radius: 4px;
+  height: 35px;
+  border-color: #83ccc5;
+  color: rgb(99, 92, 92);
+}
+
+.description{
+  height: 120px;
+  
+}
+
+.categoryErrMsg {
+  color: red;
+  text-align: left;
+ 
+
+}
+
+
+
+.home .col-4 {
+  margin: 20px 0;
+  max-width: 348px;
+  padding: 0;
+  box-shadow: 1px 8px 1px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+  
+ 
+}
+
+.row {
+  column-gap: 30px;
+ 
+ 
+}
+
+.searchForm {
+  margin: auto;
+  padding: 15px;
+  max-width: 550px;
+  align-content: center;
+}

@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "Tech Blog",
+      "description": "People from different walks of life are intrigued by the way technology is progressing at a profuse rate, shaping our lives into the digital world!  With new tech trends being introduced every quarter and information becoming obsolete as technology evolves, it’s now an obligation to stay relevant and learn about the newest technologies, digital industry, social media, and the web in general!",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/dtrqfmoft/image/upload/v1668594590/xfkphbyvoh4iqziwarzh.jpg",
+      "date": "11/16/2022",
+      "id": 2
+    },
+    {
+      "title": "Travel Blog",
+      "description": "One of the most popular hill stations in Himachal, Manali offers the most magnificent views of the Pir Panjal and the Dhauladhar ranges covered with snow for most parts of the year.   With the Covid-19 pandemic going on, Manali has evolved to be a place loved by young people looking for longer stays for workation. With ambient cafes, good wifi availability, small eateries and convenient shops, Old Manali is among the favorite neighbourhood for such people. There are many homestays and hostels offering dorm beds for cheap for longer durations. ",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/dtrqfmoft/image/upload/v1668836707/scpeotygzixajygfbckw.jpg",
+      "date": "11/19/2022",
+      "id": 3
+    },
+    {
+      "title": "Fashion Blog",
+      "description": "Fashion refers to anything that becomes a rage among the masses. Fashion is a popular aesthetic expression. Most Noteworthy, it is something that is in vogue. Fashion appears in clothing, footwear, accessories, makeup, hairstyles, lifestyle, and body proportions. Furthermore, Fashion is an industry-supported expression. In the contemporary world, people take fashion very seriously. Fashion is something that has permeated every aspect of human culture.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/dtrqfmoft/image/upload/v1668836934/vwf4sqaep3pnltitxcry.jpg",
+      "date": "11/19/2022",
+      "id": 4
+    },
+    {
+      "title": "Fitness Blog",
+      "description": "The good news? Fitness IS about so much more than losing a few pounds, getting shredded, or trying to emulate a “perfectly” toned body.  Fitness is about what you can gain. It’s about measuring success by how you feel, not by the scale. It’s about improving physical, mental, and emotional health.  It’s about moving in a way that brings you joy so you’ll keep going for years. And it’s about meeting you where you’re at on your fitness journey.  To help kick-start your journey toward finding the “why,” we interviewed 12 trainers, yoga instructors, parents, and others about WHY they exercise, how they fit it in, what inspires them to keep going, and a favorite motivational phrase they share with others.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dtrqfmoft/image/upload/v1668838219/p5vfcxhsgxovxtddci5i.jpg",
+      "date": "11/19/2022",
+      "id": 5
+    },
+    {
+      "title": "Sports Blog",
+      "description": "People from different walks of life are intrigued by the way technology is progressing at a profuse rate, shaping our lives into the digital world!  With new tech trends being introduced every quarter and information becoming obsolete as technology evolves, it’s now an obligation to stay relevant and learn about the newest technologies, digital industry, social media, and the web in general!",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dtrqfmoft/image/upload/v1668866730/qdtnwkv1g1iyb6vxs6ja.jpg",
+      "date": "11/19/2022",
+      "id": 6
+    },
+    {
+      "title": "Food Blog",
+      "description": "While every nation in this world has its own food culture and history, we Indians have a penchant for thinking (quite rightly) that we can't do without our favourites. After all, every occasion in this country--religious, personal or related to anything else under the sky--is incomplete without a few dishes to celebrate with.  It's just that sentiment we want to acknowledge, especially we are celebrating #70YearsOfIndependence on 15 August 2017. India's diverse food culture makes this occasion even more special, because we can choose to celebrate the day with dishes from every region of the country.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dtrqfmoft/image/upload/v1668926072/cp8rxducveolfwusvjqp.jpg",
+      "date": "11/20/2022",
+      "id": 7
+    }
+  ]
+}
